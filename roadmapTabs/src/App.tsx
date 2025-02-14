@@ -20,12 +20,6 @@ function App() {
       <div className="container">
         {/* <h1>{tab1}</h1> */}
         <h1>You are on the {content}st tab</h1>
-        <h1>You are on the {content}st tab</h1>
-        <h1>You are on the {content}st tab</h1>
-        <h1>You are on the {content}st tab</h1>
-        <h1>You are on the {content}st tab</h1>
-        <h1>You are on the {content}st tab</h1>
-        <h1>You are on the {content}st tab</h1>
       </div>
     </>
   )
