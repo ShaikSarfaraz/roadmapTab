@@ -8,7 +8,6 @@ function App() {
   const thirdContent = () => setContent(3)
   const fourthContent = () => setContent(4)
   
-
   return (
     <>
       <nav>
