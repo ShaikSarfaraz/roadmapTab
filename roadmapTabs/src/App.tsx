@@ -17,12 +17,6 @@ function App() {
         <span className='gapForTabs' onClick={thirdContent}>Third Tab</span>
         <span className='gapForTabs' onClick={fourthContent}>Fourth Tab</span>
       </nav>
-      {/* <nav>
-        <span className='gapForTabs' onClick={firstContent}>First Tab</span>
-        <span className='gapForTabs' onClick={secondContent}>Second Tab</span>
-        <span className='gapForTabs' onClick={thirdContent}>Third Tab</span>
-        <span className='gapForTabs' onClick={fourthContent}>Fourth Tab</span>
-      </nav> */}
       <div className="container">
         {/* <h1>{tab1}</h1> */}
         <h1>You are on the {content}st tab</h1>
